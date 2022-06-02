@@ -1,0 +1,28 @@
+body {
+    font-family:'Zen Kaku Gothic Antique', sans-serif;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #585858
+}
+
+h2 {
+ color: #585858;   
+ font-weight: 800;
+
+}
+
+p{
+    text-align: justify;
+    color: #585858;
+}
+
+ul{
+    color: #585858;
+}
